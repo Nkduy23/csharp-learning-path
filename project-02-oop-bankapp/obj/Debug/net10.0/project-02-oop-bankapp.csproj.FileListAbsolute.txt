@@ -1,0 +1,15 @@
+F:\csharp-learning-path\project-02-oop-bankapp\obj\Debug\net10.0\project-02-oop-bankapp.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp-learning-path\project-02-oop-bankapp\obj\Debug\net10.0\project-02-oop-bankapp.AssemblyInfoInputs.cache
+F:\csharp-learning-path\project-02-oop-bankapp\obj\Debug\net10.0\project-02-oop-bankapp.AssemblyInfo.cs
+F:\csharp-learning-path\project-02-oop-bankapp\obj\Debug\net10.0\project-02-oop-bankapp.csproj.CoreCompileInputs.cache
+F:\csharp-learning-path\project-02-oop-bankapp\obj\Debug\net10.0\project-02-oop-bankapp.sourcelink.json
+F:\csharp-learning-path\project-02-oop-bankapp\bin\Debug\net10.0\project-02-oop-bankapp.exe
+F:\csharp-learning-path\project-02-oop-bankapp\bin\Debug\net10.0\project-02-oop-bankapp.deps.json
+F:\csharp-learning-path\project-02-oop-bankapp\bin\Debug\net10.0\project-02-oop-bankapp.runtimeconfig.json
+F:\csharp-learning-path\project-02-oop-bankapp\bin\Debug\net10.0\project-02-oop-bankapp.dll
+F:\csharp-learning-path\project-02-oop-bankapp\bin\Debug\net10.0\project-02-oop-bankapp.pdb
+F:\csharp-learning-path\project-02-oop-bankapp\obj\Debug\net10.0\project-02-oop-bankapp.dll
+F:\csharp-learning-path\project-02-oop-bankapp\obj\Debug\net10.0\refint\project-02-oop-bankapp.dll
+F:\csharp-learning-path\project-02-oop-bankapp\obj\Debug\net10.0\project-02-oop-bankapp.pdb
+F:\csharp-learning-path\project-02-oop-bankapp\obj\Debug\net10.0\project-02-oop-bankapp.genruntimeconfig.cache
+F:\csharp-learning-path\project-02-oop-bankapp\obj\Debug\net10.0\ref\project-02-oop-bankapp.dll
