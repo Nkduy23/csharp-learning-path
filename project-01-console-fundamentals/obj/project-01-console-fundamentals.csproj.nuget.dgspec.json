@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\csharp-learning-path\\project-01-console-fundamentals\\project-01-console-fundamentals.csproj": {}
+    "F:\\csharp-learning-path\\project-01-console-fundamentals\\project-01-console-fundamentals.csproj": {}
   },
   "projects": {
-    "f:\\csharp-learning-path\\project-01-console-fundamentals\\project-01-console-fundamentals.csproj": {
+    "F:\\csharp-learning-path\\project-01-console-fundamentals\\project-01-console-fundamentals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\csharp-learning-path\\project-01-console-fundamentals\\project-01-console-fundamentals.csproj",
+        "projectUniqueName": "F:\\csharp-learning-path\\project-01-console-fundamentals\\project-01-console-fundamentals.csproj",
         "projectName": "project-01-console-fundamentals",
-        "projectPath": "f:\\csharp-learning-path\\project-01-console-fundamentals\\project-01-console-fundamentals.csproj",
+        "projectPath": "F:\\csharp-learning-path\\project-01-console-fundamentals\\project-01-console-fundamentals.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "f:\\csharp-learning-path\\project-01-console-fundamentals\\obj\\",
+        "outputPath": "F:\\csharp-learning-path\\project-01-console-fundamentals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"

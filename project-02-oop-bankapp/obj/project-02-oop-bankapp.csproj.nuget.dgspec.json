@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\csharp-learning-path\\project-02-oop-bankapp\\project-02-oop-bankapp.csproj": {}
+    "F:\\csharp-learning-path\\project-02-oop-bankapp\\project-02-oop-bankapp.csproj": {}
   },
   "projects": {
-    "f:\\csharp-learning-path\\project-02-oop-bankapp\\project-02-oop-bankapp.csproj": {
+    "F:\\csharp-learning-path\\project-02-oop-bankapp\\project-02-oop-bankapp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\csharp-learning-path\\project-02-oop-bankapp\\project-02-oop-bankapp.csproj",
+        "projectUniqueName": "F:\\csharp-learning-path\\project-02-oop-bankapp\\project-02-oop-bankapp.csproj",
         "projectName": "project-02-oop-bankapp",
-        "projectPath": "f:\\csharp-learning-path\\project-02-oop-bankapp\\project-02-oop-bankapp.csproj",
+        "projectPath": "F:\\csharp-learning-path\\project-02-oop-bankapp\\project-02-oop-bankapp.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "f:\\csharp-learning-path\\project-02-oop-bankapp\\obj\\",
+        "outputPath": "F:\\csharp-learning-path\\project-02-oop-bankapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"

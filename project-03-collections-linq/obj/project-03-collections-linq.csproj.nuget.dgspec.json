@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\csharp-learning-path\\project-03-collections-linq\\project-03-collections-linq.csproj": {}
+    "F:\\csharp-learning-path\\project-03-collections-linq\\project-03-collections-linq.csproj": {}
   },
   "projects": {
-    "f:\\csharp-learning-path\\project-03-collections-linq\\project-03-collections-linq.csproj": {
+    "F:\\csharp-learning-path\\project-03-collections-linq\\project-03-collections-linq.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\csharp-learning-path\\project-03-collections-linq\\project-03-collections-linq.csproj",
+        "projectUniqueName": "F:\\csharp-learning-path\\project-03-collections-linq\\project-03-collections-linq.csproj",
         "projectName": "project-03-collections-linq",
-        "projectPath": "f:\\csharp-learning-path\\project-03-collections-linq\\project-03-collections-linq.csproj",
+        "projectPath": "F:\\csharp-learning-path\\project-03-collections-linq\\project-03-collections-linq.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "f:\\csharp-learning-path\\project-03-collections-linq\\obj\\",
+        "outputPath": "F:\\csharp-learning-path\\project-03-collections-linq\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"

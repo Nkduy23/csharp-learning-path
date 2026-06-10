@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "f:\\csharp-learning-path\\project-05-webapi-restful\\project-05-webapi-restful.csproj": {}
+    "F:\\csharp-learning-path\\project-05-webapi-restful\\project-05-webapi-restful.csproj": {}
   },
   "projects": {
-    "f:\\csharp-learning-path\\project-05-webapi-restful\\project-05-webapi-restful.csproj": {
+    "F:\\csharp-learning-path\\project-05-webapi-restful\\project-05-webapi-restful.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "f:\\csharp-learning-path\\project-05-webapi-restful\\project-05-webapi-restful.csproj",
+        "projectUniqueName": "F:\\csharp-learning-path\\project-05-webapi-restful\\project-05-webapi-restful.csproj",
         "projectName": "project-05-webapi-restful",
-        "projectPath": "f:\\csharp-learning-path\\project-05-webapi-restful\\project-05-webapi-restful.csproj",
+        "projectPath": "F:\\csharp-learning-path\\project-05-webapi-restful\\project-05-webapi-restful.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "f:\\csharp-learning-path\\project-05-webapi-restful\\obj\\",
+        "outputPath": "F:\\csharp-learning-path\\project-05-webapi-restful\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -63,6 +63,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[10.0.9, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[10.2.1, )"
             }
           },
           "imports": [
