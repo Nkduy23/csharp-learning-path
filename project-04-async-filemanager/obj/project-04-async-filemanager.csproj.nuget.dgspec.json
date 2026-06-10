@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\csharp-learning-path\\project-04-async-filemanager\\project-04-async-filemanager.csproj": {}
+    "f:\\csharp-learning-path\\project-04-async-filemanager\\project-04-async-filemanager.csproj": {}
   },
   "projects": {
-    "F:\\csharp-learning-path\\project-04-async-filemanager\\project-04-async-filemanager.csproj": {
+    "f:\\csharp-learning-path\\project-04-async-filemanager\\project-04-async-filemanager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\csharp-learning-path\\project-04-async-filemanager\\project-04-async-filemanager.csproj",
+        "projectUniqueName": "f:\\csharp-learning-path\\project-04-async-filemanager\\project-04-async-filemanager.csproj",
         "projectName": "project-04-async-filemanager",
-        "projectPath": "F:\\csharp-learning-path\\project-04-async-filemanager\\project-04-async-filemanager.csproj",
+        "projectPath": "f:\\csharp-learning-path\\project-04-async-filemanager\\project-04-async-filemanager.csproj",
         "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-        "outputPath": "F:\\csharp-learning-path\\project-04-async-filemanager\\obj\\",
+        "outputPath": "f:\\csharp-learning-path\\project-04-async-filemanager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nguye\\AppData\\Roaming\\NuGet\\NuGet.Config"

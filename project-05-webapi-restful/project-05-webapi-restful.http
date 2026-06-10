@@ -1,0 +1,6 @@
+@project_05_webapi_restful_HostAddress = http://localhost:5226
+
+GET {{project_05_webapi_restful_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
