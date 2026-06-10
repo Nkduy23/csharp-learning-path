@@ -1,0 +1,14 @@
+F:\csharp-learning-path\project-01-console-fundamentals\bin\Debug\net10.0\project-01-console-fundamentals.exe
+F:\csharp-learning-path\project-01-console-fundamentals\bin\Debug\net10.0\project-01-console-fundamentals.deps.json
+F:\csharp-learning-path\project-01-console-fundamentals\bin\Debug\net10.0\project-01-console-fundamentals.runtimeconfig.json
+F:\csharp-learning-path\project-01-console-fundamentals\bin\Debug\net10.0\project-01-console-fundamentals.dll
+F:\csharp-learning-path\project-01-console-fundamentals\bin\Debug\net10.0\project-01-console-fundamentals.pdb
+F:\csharp-learning-path\project-01-console-fundamentals\obj\Debug\net10.0\project-01-console-fundamentals.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp-learning-path\project-01-console-fundamentals\obj\Debug\net10.0\project-01-console-fundamentals.AssemblyInfoInputs.cache
+F:\csharp-learning-path\project-01-console-fundamentals\obj\Debug\net10.0\project-01-console-fundamentals.AssemblyInfo.cs
+F:\csharp-learning-path\project-01-console-fundamentals\obj\Debug\net10.0\project-01-console-fundamentals.csproj.CoreCompileInputs.cache
+F:\csharp-learning-path\project-01-console-fundamentals\obj\Debug\net10.0\project-01-console-fundamentals.dll
+F:\csharp-learning-path\project-01-console-fundamentals\obj\Debug\net10.0\refint\project-01-console-fundamentals.dll
+F:\csharp-learning-path\project-01-console-fundamentals\obj\Debug\net10.0\project-01-console-fundamentals.pdb
+F:\csharp-learning-path\project-01-console-fundamentals\obj\Debug\net10.0\project-01-console-fundamentals.genruntimeconfig.cache
+F:\csharp-learning-path\project-01-console-fundamentals\obj\Debug\net10.0\ref\project-01-console-fundamentals.dll

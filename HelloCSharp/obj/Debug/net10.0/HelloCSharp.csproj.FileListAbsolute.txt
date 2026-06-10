@@ -1,0 +1,14 @@
+F:\csharp-learning-path\HelloCSharp\bin\Debug\net10.0\HelloCSharp.exe
+F:\csharp-learning-path\HelloCSharp\bin\Debug\net10.0\HelloCSharp.deps.json
+F:\csharp-learning-path\HelloCSharp\bin\Debug\net10.0\HelloCSharp.runtimeconfig.json
+F:\csharp-learning-path\HelloCSharp\bin\Debug\net10.0\HelloCSharp.dll
+F:\csharp-learning-path\HelloCSharp\bin\Debug\net10.0\HelloCSharp.pdb
+F:\csharp-learning-path\HelloCSharp\obj\Debug\net10.0\HelloCSharp.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp-learning-path\HelloCSharp\obj\Debug\net10.0\HelloCSharp.AssemblyInfoInputs.cache
+F:\csharp-learning-path\HelloCSharp\obj\Debug\net10.0\HelloCSharp.AssemblyInfo.cs
+F:\csharp-learning-path\HelloCSharp\obj\Debug\net10.0\HelloCSharp.csproj.CoreCompileInputs.cache
+F:\csharp-learning-path\HelloCSharp\obj\Debug\net10.0\HelloCSharp.dll
+F:\csharp-learning-path\HelloCSharp\obj\Debug\net10.0\refint\HelloCSharp.dll
+F:\csharp-learning-path\HelloCSharp\obj\Debug\net10.0\HelloCSharp.pdb
+F:\csharp-learning-path\HelloCSharp\obj\Debug\net10.0\HelloCSharp.genruntimeconfig.cache
+F:\csharp-learning-path\HelloCSharp\obj\Debug\net10.0\ref\HelloCSharp.dll
