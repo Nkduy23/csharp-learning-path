@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("project-05-webapi-restful")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b54b2c09c355c9ea87ef4f00dd99cbce939efdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8c8dd2bd3cae8ac50b8d4621ca76245ccb07077")]
 [assembly: System.Reflection.AssemblyProductAttribute("project-05-webapi-restful")]
 [assembly: System.Reflection.AssemblyTitleAttribute("project-05-webapi-restful")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
