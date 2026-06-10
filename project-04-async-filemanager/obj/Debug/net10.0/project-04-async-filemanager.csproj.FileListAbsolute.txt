@@ -1,0 +1,15 @@
+F:\csharp-learning-path\project-04-async-filemanager\bin\Debug\net10.0\project-04-async-filemanager.exe
+F:\csharp-learning-path\project-04-async-filemanager\bin\Debug\net10.0\project-04-async-filemanager.deps.json
+F:\csharp-learning-path\project-04-async-filemanager\bin\Debug\net10.0\project-04-async-filemanager.runtimeconfig.json
+F:\csharp-learning-path\project-04-async-filemanager\bin\Debug\net10.0\project-04-async-filemanager.dll
+F:\csharp-learning-path\project-04-async-filemanager\bin\Debug\net10.0\project-04-async-filemanager.pdb
+F:\csharp-learning-path\project-04-async-filemanager\obj\Debug\net10.0\project-04-async-filemanager.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp-learning-path\project-04-async-filemanager\obj\Debug\net10.0\project-04-async-filemanager.AssemblyInfoInputs.cache
+F:\csharp-learning-path\project-04-async-filemanager\obj\Debug\net10.0\project-04-async-filemanager.AssemblyInfo.cs
+F:\csharp-learning-path\project-04-async-filemanager\obj\Debug\net10.0\project-04-async-filemanager.csproj.CoreCompileInputs.cache
+F:\csharp-learning-path\project-04-async-filemanager\obj\Debug\net10.0\project-04-async-filemanager.sourcelink.json
+F:\csharp-learning-path\project-04-async-filemanager\obj\Debug\net10.0\project-04-async-filemanager.dll
+F:\csharp-learning-path\project-04-async-filemanager\obj\Debug\net10.0\refint\project-04-async-filemanager.dll
+F:\csharp-learning-path\project-04-async-filemanager\obj\Debug\net10.0\project-04-async-filemanager.pdb
+F:\csharp-learning-path\project-04-async-filemanager\obj\Debug\net10.0\project-04-async-filemanager.genruntimeconfig.cache
+F:\csharp-learning-path\project-04-async-filemanager\obj\Debug\net10.0\ref\project-04-async-filemanager.dll
