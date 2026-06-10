@@ -1,0 +1,15 @@
+F:\csharp-learning-path\project-03-collections-linq\bin\Debug\net10.0\project-03-collections-linq.exe
+F:\csharp-learning-path\project-03-collections-linq\bin\Debug\net10.0\project-03-collections-linq.deps.json
+F:\csharp-learning-path\project-03-collections-linq\bin\Debug\net10.0\project-03-collections-linq.runtimeconfig.json
+F:\csharp-learning-path\project-03-collections-linq\bin\Debug\net10.0\project-03-collections-linq.dll
+F:\csharp-learning-path\project-03-collections-linq\bin\Debug\net10.0\project-03-collections-linq.pdb
+F:\csharp-learning-path\project-03-collections-linq\obj\Debug\net10.0\project-03-collections-linq.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp-learning-path\project-03-collections-linq\obj\Debug\net10.0\project-03-collections-linq.AssemblyInfoInputs.cache
+F:\csharp-learning-path\project-03-collections-linq\obj\Debug\net10.0\project-03-collections-linq.AssemblyInfo.cs
+F:\csharp-learning-path\project-03-collections-linq\obj\Debug\net10.0\project-03-collections-linq.csproj.CoreCompileInputs.cache
+F:\csharp-learning-path\project-03-collections-linq\obj\Debug\net10.0\project-03-collections-linq.sourcelink.json
+F:\csharp-learning-path\project-03-collections-linq\obj\Debug\net10.0\project-03-collections-linq.dll
+F:\csharp-learning-path\project-03-collections-linq\obj\Debug\net10.0\refint\project-03-collections-linq.dll
+F:\csharp-learning-path\project-03-collections-linq\obj\Debug\net10.0\project-03-collections-linq.pdb
+F:\csharp-learning-path\project-03-collections-linq\obj\Debug\net10.0\project-03-collections-linq.genruntimeconfig.cache
+F:\csharp-learning-path\project-03-collections-linq\obj\Debug\net10.0\ref\project-03-collections-linq.dll
